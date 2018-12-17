@@ -1,0 +1,72 @@
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\placehodler.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\PlatformGame.exe
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\PlatformGame.pdb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\obj\x86\Debug\PlatformGame.exe
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\obj\x86\Debug\PlatformGame.pdb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\obj\x86\Debug\PlatformGame.csprojResolveAssemblyReference.cache
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\platform.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\wall.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\test level.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\tileset.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\flag.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level2.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\tileset2.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level3.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\spikes.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level4.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level5.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\playerjump.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level6.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level7.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level8.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 1.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 10.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 11.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 12.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 2.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 3.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 4.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 5.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 6.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 7.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 8.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 9.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\playerwalk1.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\playerwalk2.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\playerwalk3.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\playerwalk4.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\playerwalkleft1.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\playerwalkleft2.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\playerwalkleft3.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\playerwalkleft4.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\BG city.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 13.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 14.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 15.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\playerleft.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 16.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 17.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 18.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 19.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\level 20.xnb
+C:\Users\hamza\Own Games\Custom\C#\PlatformGame\PlatformGame\bin\Windows\x86\Debug\Content\logo.xnb
