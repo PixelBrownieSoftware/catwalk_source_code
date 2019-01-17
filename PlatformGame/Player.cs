@@ -149,6 +149,8 @@ namespace BrownieEngine
 
             #region debugcollsion
             /*
+            Tried to do collisions but failed terribly, the character would end up stuck into the walls or just going all over the place
+            
             charrect = sprites[32].rect;
             Rectangle intersection = Rectangle.Intersect(this.rect, charrect);
 
@@ -176,8 +178,7 @@ namespace BrownieEngine
                         velocity.X = 0;
                         //&& this.rect.Right + 5 > character.rect.Right
                     }
-
-
+                    
                     //bottom collision
                     if (this.rect.Bottom > charrect.Top && 
                         this.rect.Top + 10 < charrect.Bottom &&
@@ -236,7 +237,6 @@ namespace BrownieEngine
 
         public void updatePhysics()
         {
-            //velocity.Y *= 0.65f;
 
             if (velocity.Y < -25)
             {
